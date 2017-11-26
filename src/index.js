@@ -28,8 +28,8 @@ window.go = () => {
   //times.reverse();
   drawBuilding(res);
 
-  //window.currentFloor.value = window.nextFloor.value
-  //window.currentRoom.value = window.nextRoom.value
+  window.currentFloor.value = window.nextFloor.value
+  window.currentRoom.value = window.nextRoom.value
 
   function drawBuilding(path) {
     const margin = 20;
