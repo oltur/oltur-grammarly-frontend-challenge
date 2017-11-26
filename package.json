@@ -3,7 +3,7 @@
   "description": "Starter for Grammarly Frontend Challenge, see readme.md for details.",
   "version": "0.0.0",
   "dependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "1.0.2"
 },
   "devDependencies": {
   },
