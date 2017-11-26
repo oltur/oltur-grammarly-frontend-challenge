@@ -2,9 +2,10 @@
   "name": "grammarly-frontend-challenge",
   "description": "Starter for Grammarly Frontend Challenge, see readme.md for details.",
   "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "react-scripts": "1.0.0"
+},
+  "devDependencies": {
   },
   "scripts": {
     "start": "react-scripts start",
